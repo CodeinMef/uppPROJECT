@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "OFLJuKZjGyDFLXt+7TlxSy6xxNBjWUWemBw502oEfbjrrcLzDVGD8wrlKlieiBBxAC48gB484lAww7AtWUZcTQ==",
+  "dgSpecHash": "mPuaPRxzh8o=",
   "success": true,
-  "projectFilePath": "/Users/kirkir/Projects/TeamProjectUPP/TeamProjectUPP/TeamProjectUPP.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Safner\\Desktop\\uppPROJECT\\TeamProjectUPP\\TeamProjectUPP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Safner\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Safner\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Safner\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Safner\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

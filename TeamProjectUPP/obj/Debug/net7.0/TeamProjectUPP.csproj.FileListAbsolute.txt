@@ -1,0 +1,15 @@
+C:\Users\Safner\Desktop\uppPROJECT\TeamProjectUPP\bin\Debug\net7.0\TeamProjectUPP.exe
+C:\Users\Safner\Desktop\uppPROJECT\TeamProjectUPP\bin\Debug\net7.0\TeamProjectUPP.deps.json
+C:\Users\Safner\Desktop\uppPROJECT\TeamProjectUPP\bin\Debug\net7.0\TeamProjectUPP.runtimeconfig.json
+C:\Users\Safner\Desktop\uppPROJECT\TeamProjectUPP\bin\Debug\net7.0\TeamProjectUPP.dll
+C:\Users\Safner\Desktop\uppPROJECT\TeamProjectUPP\bin\Debug\net7.0\TeamProjectUPP.pdb
+C:\Users\Safner\Desktop\uppPROJECT\TeamProjectUPP\obj\Debug\net7.0\TeamProjectUPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Safner\Desktop\uppPROJECT\TeamProjectUPP\obj\Debug\net7.0\TeamProjectUPP.AssemblyInfoInputs.cache
+C:\Users\Safner\Desktop\uppPROJECT\TeamProjectUPP\obj\Debug\net7.0\TeamProjectUPP.AssemblyInfo.cs
+C:\Users\Safner\Desktop\uppPROJECT\TeamProjectUPP\obj\Debug\net7.0\TeamProjectUPP.csproj.CoreCompileInputs.cache
+C:\Users\Safner\Desktop\uppPROJECT\TeamProjectUPP\obj\Debug\net7.0\TeamProjectUPP.sourcelink.json
+C:\Users\Safner\Desktop\uppPROJECT\TeamProjectUPP\obj\Debug\net7.0\TeamProjectUPP.dll
+C:\Users\Safner\Desktop\uppPROJECT\TeamProjectUPP\obj\Debug\net7.0\refint\TeamProjectUPP.dll
+C:\Users\Safner\Desktop\uppPROJECT\TeamProjectUPP\obj\Debug\net7.0\TeamProjectUPP.pdb
+C:\Users\Safner\Desktop\uppPROJECT\TeamProjectUPP\obj\Debug\net7.0\TeamProjectUPP.genruntimeconfig.cache
+C:\Users\Safner\Desktop\uppPROJECT\TeamProjectUPP\obj\Debug\net7.0\ref\TeamProjectUPP.dll
